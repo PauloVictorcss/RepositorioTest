@@ -8,6 +8,7 @@ Titulos
 negrito
 
 __Sample test__
+**Sample test**
 
 
 -------------------------------
@@ -15,9 +16,9 @@ __Sample test__
 Listas
 
 
-**1 - item**
-2 - item
-3 - item
+1. item
+2. item
+3. item
 
 * item
 * item
